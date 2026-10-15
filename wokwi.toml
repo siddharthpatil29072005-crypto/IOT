@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/IOT.ino.hex"
+elf = "build/IOT.ino.elf"
